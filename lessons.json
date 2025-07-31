@@ -1,0 +1,120 @@
+{
+  "math": {
+    "whole_numbers": {
+      "meaning": "Whole numbers are numbers without fractions or decimals. They include 0, 1, 2, 3, and so on.",
+      "illustrations": [
+        "Imagine you have 3 apples. Whole numbers count the entire apples, not parts.",
+        "Think of counting your friends in class—each friend is 1 whole."
+      ],
+      "careers": [
+        "Cashier: counting money correctly",
+        "Engineer: measuring parts in whole units",
+        "Teacher: taking class attendance"
+      ],
+      "practice": [
+        {
+          "question": "Which of the following is a whole number?",
+          "options": ["3", "4.5", "2.7"],
+          "answer": "3"
+        },
+        {
+          "question": "How many whole numbers are between 0 and 5?",
+          "options": ["4", "5", "6"],
+          "answer": "4"
+        },
+        {
+          "question": "Which of these is NOT a whole number?",
+          "options": ["7", "0", "4.5"],
+          "answer": "4.5"
+        }
+      ]
+    },
+    "subtraction": {
+      "meaning": "Subtraction is taking away from a number to find what is left.",
+      "illustrations": [
+        "If you have 5 sweets and eat 2, 5 - 2 = 3 sweets left.",
+        "When 10 birds are on a tree and 4 fly away, 10 - 4 = 6 birds left."
+      ],
+      "careers": [
+        "Shopkeeper: calculating change",
+        "Bank teller: processing withdrawals",
+        "Chef: adjusting ingredient quantities"
+      ],
+      "practice": [
+        {
+          "question": "What is 8 - 3?",
+          "options": ["4", "5", "6"],
+          "answer": "5"
+        },
+        {
+          "question": "You had 12 pencils and lost 5. How many are left?",
+          "options": ["5", "6", "7"],
+          "answer": "7"
+        }
+      ]
+    }
+  },
+
+  "english": {
+    "sight_words": {
+      "meaning": "Sight words are common words you should recognize instantly without sounding them out.",
+      "illustrations": [
+        "Words like 'the', 'and', 'you' appear often in reading.",
+        "Imagine seeing a stop sign—you don’t spell it out, you just know what it means."
+      ],
+      "careers": [
+        "Author: recognizing and using words quickly",
+        "Journalist: writing simple sentences fast",
+        "Teacher: helping others learn to read"
+      ],
+      "practice": [
+        {
+          "question": "Which is a sight word?",
+          "options": ["cat", "and", "box"],
+          "answer": "and"
+        },
+        {
+          "question": "Which of these is a sight word?",
+          "options": ["jump", "tree", "the"],
+          "answer": "the"
+        }
+      ]
+    },
+    "phonics": {
+      "meaning": "Phonics is learning the sounds letters make.",
+      "illustrations": [
+        "The letter 'b' makes the /b/ sound as in 'bat'.",
+        "The letter 's' makes the /s/ sound as in 'sun'."
+      ],
+      "careers": [
+        "Teacher: teaching reading",
+        "Radio presenter: pronouncing words clearly",
+        "Actor: using correct pronunciation in scripts"
+      ],
+      "practice": [
+        {
+          "question": "Which word starts with the /b/ sound?",
+          "options": ["sun", "ball", "top"],
+          "answer": "ball"
+        },
+        {
+          "question": "Which word starts with the /s/ sound?",
+          "options": ["soap", "bat", "dog"],
+          "answer": "soap"
+        }
+      ]
+    }
+  },
+
+  "exposure": {
+    "games": {
+      "description": "Fun learning games (coming soon)"
+    },
+    "competitions": {
+      "description": "Competitions you can enter (coming soon)"
+    },
+    "movies": {
+      "description": "Movies to watch and learn (coming soon)"
+    }
+  }
+}
